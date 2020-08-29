@@ -2,7 +2,7 @@
 ## Second Degree Equation
 ### This python code takes three variables (a, b, c) corresponding to (x², x, n) and calculates the value of x.
 ### 
-#### <img src="https://github.com/rodrigonuness/language_pictures/blob/master/Sem título.png" align="left" width="200">
+#### <img src="https://github.com/rodrigonuness/language_pictures/blob/master/Me.png" align="left" width="200">
 
 
 
